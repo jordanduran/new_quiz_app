@@ -1,0 +1,83 @@
+* {
+    text-align: center;
+    justify-content: center;
+    font-family: 'Play', sans-serif;
+}
+
+body {
+    background-color: #fff892;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+p {
+    font-size: 20px;
+}
+
+/* Start page styles */
+
+p.descrip {
+    font-size: 20px;
+}
+
+p.score {
+    font-size: 20px;
+}
+
+.start-button {
+    font-size: 15px;
+    cursor: pointer;
+}
+
+/* Question styles */
+
+p.question-number {
+    font-size: 25px;
+}
+
+label {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+fieldset {
+    border: none;
+}
+
+legend {
+    font-size: 25px;
+}
+
+/* Button styles */
+
+input {
+    cursor: pointer;
+    color: white;
+    background-color: black;
+    font-size: 17px;
+    margin-top: 20px;
+}
+
+button.start-button {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+button.next-button {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+button.restart-button {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
